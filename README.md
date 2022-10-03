@@ -16,6 +16,6 @@
 ![image](https://user-images.githubusercontent.com/99623646/193496577-b7a66577-0f83-4904-8d0c-f8520ffe99ec.png)
 ![image](https://user-images.githubusercontent.com/99623646/193496595-e3f4b4fa-c6f9-4f15-98e4-fe616568ab03.png)
 8. boottrap
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" 
+<1link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" 
 integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
