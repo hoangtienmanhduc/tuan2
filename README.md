@@ -13,6 +13,7 @@
 6. index.ejs
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" 
 integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
 ![image](https://user-images.githubusercontent.com/99623646/193496533-c657f0bf-5fcf-42c7-92a2-36d866de2b47.png)
 7.add.ejs
 ![image](https://user-images.githubusercontent.com/99623646/193496577-b7a66577-0f83-4904-8d0c-f8520ffe99ec.png)
